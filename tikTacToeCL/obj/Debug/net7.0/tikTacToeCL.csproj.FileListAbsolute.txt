@@ -1,0 +1,14 @@
+C:\Users\kp611\OneDrive\Рабочий стол\tikTacToeCL\bin\Debug\net7.0\tikTacToeCL.exe
+C:\Users\kp611\OneDrive\Рабочий стол\tikTacToeCL\bin\Debug\net7.0\tikTacToeCL.deps.json
+C:\Users\kp611\OneDrive\Рабочий стол\tikTacToeCL\bin\Debug\net7.0\tikTacToeCL.runtimeconfig.json
+C:\Users\kp611\OneDrive\Рабочий стол\tikTacToeCL\bin\Debug\net7.0\tikTacToeCL.dll
+C:\Users\kp611\OneDrive\Рабочий стол\tikTacToeCL\bin\Debug\net7.0\tikTacToeCL.pdb
+C:\Users\kp611\OneDrive\Рабочий стол\tikTacToeCL\obj\Debug\net7.0\tikTacToeCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kp611\OneDrive\Рабочий стол\tikTacToeCL\obj\Debug\net7.0\tikTacToeCL.AssemblyInfoInputs.cache
+C:\Users\kp611\OneDrive\Рабочий стол\tikTacToeCL\obj\Debug\net7.0\tikTacToeCL.AssemblyInfo.cs
+C:\Users\kp611\OneDrive\Рабочий стол\tikTacToeCL\obj\Debug\net7.0\tikTacToeCL.csproj.CoreCompileInputs.cache
+C:\Users\kp611\OneDrive\Рабочий стол\tikTacToeCL\obj\Debug\net7.0\tikTacToeCL.dll
+C:\Users\kp611\OneDrive\Рабочий стол\tikTacToeCL\obj\Debug\net7.0\refint\tikTacToeCL.dll
+C:\Users\kp611\OneDrive\Рабочий стол\tikTacToeCL\obj\Debug\net7.0\tikTacToeCL.pdb
+C:\Users\kp611\OneDrive\Рабочий стол\tikTacToeCL\obj\Debug\net7.0\tikTacToeCL.genruntimeconfig.cache
+C:\Users\kp611\OneDrive\Рабочий стол\tikTacToeCL\obj\Debug\net7.0\ref\tikTacToeCL.dll
